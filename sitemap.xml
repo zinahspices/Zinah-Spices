@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://zinahspices.github.io/Zinah-Spices/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Example product/image pages (add more if you have them) -->
+  <url>
+    <loc>https://zinahspices.github.io/Zinah-Spices/lal_mirch.jpg</loc>
+  </url>
+  <url>
+    <loc>https://zinahspices.github.io/Zinah-Spices/haldi_powder.png</loc>
+  </url>
+  <url>
+    <loc>https://zinahspices.github.io/Zinah-Spices/garam_masala.jpg</loc>
+  </url>
+  <url>
+    <loc>https://zinahspices.github.io/Zinah-Spices/chat_masala.jpg</loc>
+  </url>
+</urlset>
